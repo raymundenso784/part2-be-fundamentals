@@ -63,3 +63,13 @@ After running the server, you can interact with the React frontend [`part1-fe-fu
 
 The `php-fundamentals` folder contains examples of standard PHP coding conventions. Always refer to the official [Laravel Documentation](https://laravel.com/docs) for guidance and best practices.
 
+## Optional Assignment: Backend Task (Laravel)
+
+### Objective
+Implement an Update API endpoint using the `PUT` method for your Todo Application.
+
+### Instructions
+- Define a new API route (`PUT` method) in Laravel to handle Todo item updates.
+- Create the corresponding method in your Todo controller to handle the update logic.
+- Validate the incoming request data and update the specified Todo item in the database.
+- Return a meaningful JSON response indicating whether the update was successful.
