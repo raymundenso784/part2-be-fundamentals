@@ -57,7 +57,7 @@ Start the Laravel development server with:
 php artisan serve
 ```
 
-After running the server, you can interact with the React frontend [`part2-be-fundamentals`](https://github.com/raymundenso784/part2-be-fundamentals).
+After running the server, you can interact with the React frontend [`part1-fe-fundamentals`](https://github.com/raymundenso784/part1-fe-fundamentals).
 
 ## PHP Fundamentals Folder
 
